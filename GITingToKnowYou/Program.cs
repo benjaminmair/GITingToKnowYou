@@ -6,3 +6,4 @@ int c = 3;
 
 // Question 1: What is the sum of a, b, and c?
 // Answer 1: The sum of a, b, and c is 6.
+// BEN MAIR's Answer: Six 
