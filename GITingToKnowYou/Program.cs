@@ -5,4 +5,4 @@ int b = 2;
 int c = 3;
 
 // Question 1: What is the sum of a, b, and c?
-// BEN MAIR's Answer: Six
+// BEN MAIR's Answer: Six 
